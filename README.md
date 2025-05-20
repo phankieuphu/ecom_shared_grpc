@@ -1,1 +1,1 @@
-# ecom_shared_grpc
+# Ecom shared proto file
